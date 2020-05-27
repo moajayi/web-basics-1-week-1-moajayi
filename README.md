@@ -1,4 +1,4 @@
-# Web Basics Week 1 Assignment
+Week 1 Assignment
 
 Welcome. Assuming you are reading this you are on the right track and on your way to your first successful assignment. To complete it, please meet the following requirements.
 
