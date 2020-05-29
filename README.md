@@ -4,6 +4,7 @@ Welcome. Assuming you are reading this you are on the right track and on your wa
 
 Create issues on the link below on the parent repo if you are stuck and want to talk about it. You can paste code, tag people and refer to other issues there. Please use it! It will be helpful for mentors and future students to see where common problems are. Link here: https://github.com/Code-the-Dream-School/web-basics-1-week-1/issues
 
+## Assignment
 1. Add a page title with an H1 tag inside of the body of the index.html page.
 2. Create a paragraph/p tag and write a message saying what you are most excited about learning at Code the Dream.
 3. Go back and wrap/enclose your H1 tag and your paragrah tag in a div tag with a class called "content-container".
@@ -12,7 +13,8 @@ Create issues on the link below on the parent repo if you are stuck and want to 
 6. Push your changes back to your remote branch so that we can see them. 
 
 
-## Additonal Instructions on how to clone/download a repo and get started. 
+## Additonal Instructions on how to clone/download a repo and get started (ie what you need to do to get up and running). 
+
 Once your repository has been created in github. You will click on the Clone or download button, and then on the clipboard icon to copy the url to the clipboard.
 
 Then open a terminal window (or Git Bash window if on Windows). Do:
@@ -23,7 +25,7 @@ mkdir lessons
 
 cd lessons (this is a folder where you will be keeping all of your code you write for the class)
 
-git clone https://github.com/Code-the-Dream-School/web-basics-1-week-1-johnsmith.git
+git clone https://github.com/Code-the-Dream-School/web-basics-1-week-1-YOUR-GIT-USER-NAME.git
 
 cd web-basics-1-week-1-johnsmith.git (but replace johnsmit with your git user name, you also should be able to hit tab if you begin typing the begininning of your repository name and it will autocomplete the rest
 
