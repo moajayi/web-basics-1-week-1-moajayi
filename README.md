@@ -25,7 +25,7 @@ mkdir lessons
 
 cd lessons (this is a folder where you will be keeping all of your code you write for the class)
 
-git clone https://github.com/Code-the-Dream-School/web-basics-1-week-1-YOUR-GIT-USER-NAME.git
+git clone https://github.com/Code-the-Dream-School/web-basics-1-week-1-YOUR-GIT-USER-NAME.git (you can also just paste the link in here if you clicked on teh green button from your forked github repository)
 
 cd web-basics-1-week-1-johnsmith.git (but replace johnsmit with your git user name, you also should be able to hit tab if you begin typing the begininning of your repository name and it will autocomplete the rest
 
