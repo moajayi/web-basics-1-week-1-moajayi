@@ -17,6 +17,10 @@ Create issues on the link below on the parent repo if you are stuck and want to 
 
 Once your repository has been created in github. You will click on the Clone or download button, and then on the clipboard icon to copy the url to the clipboard.
 
+Here is a link to a youtube video walkthrough as well. 
+
+https://www.youtube.com/watch?v=N_AnCnaD44E&feature=youtu.be
+
 Then open a terminal window (or Git Bash window if on Windows). Do:
 
 cd ~
