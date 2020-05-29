@@ -13,7 +13,7 @@ Create issues on the link below on the parent repo if you are stuck and want to 
 
 
 ## Additonal Instructions on how to clone/download a repo and get started. 
-You will click on the Clone or download button, and then on the clipboard icon to copy the url to the clipboard.
+Once your repository has been created in github. You will click on the Clone or download button, and then on the clipboard icon to copy the url to the clipboard.
 
 Then open a terminal window (or Git Bash window if on Windows). Do:
 
