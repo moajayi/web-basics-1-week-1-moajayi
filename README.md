@@ -2,7 +2,7 @@
 
 Welcome. Assuming you are reading this you are on the right track and on your way to your first successful assignment. To complete it, please meet the following requirements.
 
-Create issues on the link below on the parent repo if you are stuck and want to talk about it. You can paste code, tag people and refer to other issues there. Please use it! It will be helpful for mentors and future students to see where common problems are. Link here: https://github.com/Code-the-Dream-School/web-basics-1-week-1/issues
+Create issues on the link below on the parent repo if you are stuck and want to talk about it. You can paste code, tag people and refer to other issues there. Please use it! It will be helpful for mentors and future students to see where common problems are. Link here: https://github.com/Code-the-Dream-School/CtD-Week-1-Git-Assignment/issues
 
 ## Assignment
 1. Add a page title with an H1 tag inside of the body of the index.html page.
